@@ -1,0 +1,349 @@
+    1  ssh-keygen
+    2  cat ~/.ssh/id_rsa.pub
+    3  git config --global user.name "vickysalamea" 
+    4  git config --global user.email vsalamea22@gmail.com
+    5  git clone git@github.com:vickysalamea/examenprogramacion.git
+    6  git branch periodista
+    7  git merge test periodista
+    8  history
+    9  git checkout -b periodista
+   10  git branch
+   11  git merge testD
+   12  git merge periodista
+   13  git checkout -b master
+   14  ls
+   15  git .add
+   16  git commit -a "Nuevao Branch"
+   17  git add .
+   18  git commit -m "Nuevao Branch"
+   19  git push
+   20  git add .
+   21  git commit -m "Nuevao Branch"
+   22  git push
+   23  git push origin perios
+   24  git push origin periodista
+   25  git add . origin 
+   26  git add . periodista
+   27  git checkout -b periodista
+   28  git push origin periodista
+   29  git push examenprogramacion periodista
+   30  git add . examenprogramacion periodista
+   31  git push examenprogramacion periodista
+   32  $ git push origin periodista
+   33  $ git push origin master
+   34  git push examen master
+   35  git push examenprogramacion periodista
+   36  git push examenprogramacion master
+   37  git commit -m "Cambio"
+   38  git push examenprogramacion periodista
+   39  git checkout -b master
+   40  git branch master
+   41  git checkout master
+   42  git push origin periodista
+   43  git pull
+   44  git merge periodista
+   45  git branch periodista
+   46  git checkout periodista
+   47  git merge periodista
+   48  git push origin periodista
+   49  git push master periodista
+   50  git push examenprogramacion periodista
+   51  git push examenprogramacion periodista
+   52  git log
+   53  git add .
+   54  git commit -m "Commit message"
+   55  git push origin master
+   56  git push examenprogramacion master
+   57  git pull
+   58  git push origin periodista
+   59  git push periodista
+   60  git push --set-upstream periodista
+   61  git push --set-upstream periodista periodista
+   62  git push --set-upstream master periodista
+   63  exit
+   64  hystory
+   65  history
+   66  git commit -m "Commit message"
+   67  git add .
+   68  ls
+   69  cd ..
+   70  ls
+   71  cd c/
+   72  ls
+   73  cd ..
+   74  ls
+   75  cd git
+   76  ls
+   77  git checkout MASTER
+   78  git checkout master
+   79  git add .
+   80  git commit -m "Commit message"
+   81  git commit -m "Commit message"
+   82  git push origin master
+   83  git push master periodista
+   84  git push master
+   85  git push --set-upstream master master
+   86  ping 8.8.8.8
+   87  git pull
+   88  git add .
+   89  git commit -m "$*"
+   90  git push
+   91  $ ./togithub test commit script 
+   92  git push origin master
+   93  git push master
+   94  git add --all 
+   95  git commit -a -m "Texto que identifique por que se hizo el commit"
+   96  git commit -a 
+   97  git commit --amend -m "Texto que identifique por que se hizo el commit"
+   98  git push master periodista
+   99  git log
+  100  git log --oneline --stat
+  101  git log --oneline --graph
+  102  git diff
+  103  git remote -v
+  104  git remote prune origin 
+  105  git branch
+  106  git status
+  107  git checkout periodista
+  108  git mergue master
+  109  git merge master
+  110  git add .
+  111  ls
+  112  pull
+  113  git pull
+  114   git init
+  115  git fetch origin
+  116  git reset --hard origin/master
+  117  git checkout master
+  118  git merge periodista
+  119  git commit -m "ddd"
+  120  git commit -m "ddd"
+  121  git commit -m "ddd"
+  122  cd C:\Users\pc11
+  123  ls
+  124  cd examenprogramacion/
+  125  git commit -m "ddd"
+  126  git pull
+  127  git commit -m "ddd"
+  128  git add .
+  129  git commit -m "ddd"
+  130  git push
+  131  git commit -m "ddd"
+  132  git push
+  133  git add .
+  134  git commit -m "Eliminando"
+  135  git push
+  136  hystory
+  137  history
+  138  history -w
+  139  hystory
+  140  history
+  141  git commit -m "Commit message"
+  142  git add .
+  143  ls
+  144  cd ..
+  145  ls
+  146  cd c/
+  147  ls
+  148  cd ..
+  149  ls
+  150  cd git
+  151  ls
+  152  git checkout MASTER
+  153  git checkout master
+  154  git add .
+  155  git commit -m "Commit message"
+  156  git commit -m "Commit message"
+  157  git push origin master
+  158  git push master periodista
+  159  git push master
+  160  git push --set-upstream master master
+  161  ping 8.8.8.8
+  162  git pull
+  163  git add .
+  164  git commit -m "$*"
+  165  git push
+  166  $ ./togithub test commit script 
+  167  git push origin master
+  168  git push master
+  169  git add --all 
+  170  git commit -a -m "Texto que identifique por que se hizo el commit"
+  171  git commit -a 
+  172  git commit --amend -m "Texto que identifique por que se hizo el commit"
+  173  git push master periodista
+  174  git log
+  175  git log --oneline --stat
+  176  git log --oneline --graph
+  177  git diff
+  178  git remote -v
+  179  git remote prune origin 
+  180  git branch
+  181  git status
+  182  git checkout periodista
+  183  git mergue master
+  184  git merge master
+  185  git add .
+  186  ls
+  187  pull
+  188  git pull
+  189   git init
+  190  git fetch origin
+  191  git reset --hard origin/master
+  192  git checkout master
+  193  git merge periodista
+  194  git commit -m "ddd"
+  195  git commit -m "ddd"
+  196  git commit -m "ddd"
+  197  cd C:\Users\pc11
+  198  ls
+  199  cd examenprogramacion/
+  200  git commit -m "ddd"
+  201  git pull
+  202  git commit -m "ddd"
+  203  git add .
+  204  git commit -m "ddd"
+  205  git push
+  206  git commit -m "ddd"
+  207  git push
+  208  git add .
+  209  git commit -m "Eliminando"
+  210  git push
+  211  hystory
+  212  history
+  213  history -w
+  214  Fuente: history -w
+  215  Fuente: history -d 10
+  216  Fuente: history
+  217  history
+  218  mkdir docs
+  219  git add .
+  220  git commit -m "Directorio Docs"
+  221  git push
+  222  git commit -m "Directorio Docs"
+  223  ls
+  224  cd ..
+  225  ls
+  226  cd C:\Users\pc11\examenprogramacion
+  227  ls
+  228  cd C:\Users\pc11\examenprogramacion
+  229  git add .
+  230  git commit -m "Directorio Docs"
+  231  git push
+  232  ls
+  233  git add .
+  234  git add .
+  235  git commit -m "Directorio Docs"
+  236  git push
+  237  git pull
+  238  git add .
+  239  git add .
+  240  git add .
+  241  log
+  242  history > log.txt
+  243  history > log.txt
+  244  history 
+  245  sublime index.html
+  246  cd index.html
+  247  vi indexx.html
+  248  vi indexx.html
+  249  history 
+  250  git add indexs.html
+  251  git add LOG
+  252  exit
+  253  cd C:\Users\pc11
+  254  ls
+  255  ls
+  256  cdc c/
+  257  cd c/
+  258  ls
+  259  cd c:
+  260  cd Users/
+  261  cd pc11/
+  262  ls
+  263  git init
+  264  git init
+  265  git clone git@github.com:vickysalamea/examenprogramacion.git
+  266  git add README
+  267  mkdir docs
+  268  ls
+  269  history
+  270  history -a
+  271  history 
+  272  cd examenprogramacion
+  273  git add .
+  274  git commit -m "Archivo Readme"
+  275  git commit -m "Archivo Readme"
+  276  git push
+  277  git push
+  278  git add .
+  279  git commit -m "Archivo Readme"
+  280  git push
+  281  git pull
+  282  git push
+  283  git pull
+  284  git add .
+  285  git commit -m "Archivo Readme"
+  286  git pull
+  287  git pull
+  288  git init
+  289  git add .
+  290  git commit -m "Archivo Readme"
+  291  git pull
+  292  git add .
+  293  git commit -m "Archivo Readme"
+  294  git push
+  295  mkdir docs
+  296  git add .
+  297  git commit -m "Carpeta Docs"
+  298  git push
+  299  git pull
+  300  git push
+  301  history > /docs/log.log
+  302  history > docs/log.log
+  303  git add .
+  304  git commit -m "Carpeta Docs"
+  305  git push
+  306  git log -1 -U c
+  307  git log -p -c -1
+  308  git log --raw
+  309  git log -c 
+  310  git log -c %H
+  311  help log
+  312   git log
+  313  git add .
+  314  git commit -m "Index docs"
+  315   git push
+  316   git push
+  317  git add .
+  318  git commit -m "Index docs"
+  319   git push
+  320  git branch periodista
+  321  $ git branch periodista
+  322  git branch periodista
+  323  git checkout periodista
+  324  git add .
+  325  git commit -m "Branch Periodista"
+  326  git merge periodista
+  327  git commit -m "Branch Periodista"
+  328  git push
+  329  git pull
+  330  git checkout master
+  331  git merge periodista
+  332  git pull
+  333   git push origin periodista
+  334   git push origin periodista
+  335   git push origin periodista
+  336  git add .
+  337  git commit -m "Branch Periodista cambio"
+  338   git push origin periodista
+  339   git pull origin periodista
+  340   git push origin periodista
+  341  git push -u origin periodista
+  342  git log
+  343  git log > log.log
+  344  git add .
+  345  git commit -m "Subida de Log"
+  346  git push
+  347  git history
+  348  history
+  349  history > historico.txt
